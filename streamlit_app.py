@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("agus buntung")
+st.title("agus buntung bau ee")
 st.write(
-    "BIMO SENTRUM"
+    "BIMO SENTRUM BRIGEZ"
 )
